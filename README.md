@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rishi Parmar</h1>
 <h3 align="center">An Intermediate Backend Developer & Cyber Security Enthusiast.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noxthetechie&label=Profile%20views&color=0e75b6&style=flat" alt="noxthetechie" /> </p>
+
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Javascript**
@@ -12,8 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/noxthetechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noxthetechie" height="30" width="40" /></a>
-  
-<a href="https://discord.com/users/noxthetechie" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=w240-h480-rw" alt="noxthetechie" height="30" width="40" /></a>
+<a href="https://discord.com/usrs/1096997719635140628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1096997719635140628" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
